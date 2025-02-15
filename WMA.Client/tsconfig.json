@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "./",
+    "typeRoots": ["src/@types"],
+    "paths": {
+      "@/*": ["src/*"]
+      //"@svg": ["assets/svgs"]
+    }
+  },
+  "include": ["src", "tailwind.config.ts"],
+  "extends": "expo/tsconfig.base"
+}

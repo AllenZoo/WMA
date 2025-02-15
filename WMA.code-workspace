@@ -1,0 +1,48 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/node_modules": true,
+      "**/.expo": true,
+      "**/.idea": true
+    },
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always"
+    },
+    "prettier.useTabs": false,
+    "prettier.tabWidth": 2,
+    "prettier.trailingComma": "es5",
+    "prettier.singleAttributePerLine": true,
+    "prettier.endOfLine": "auto",
+    "[java]": {
+      "editor.tabSize": 4,
+      "editor.defaultFormatter": "redhat.java"
+    },
+    "eslint.workingDirectories": ["./WMA.Client"]
+  },
+  "extensions": {
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "vscjava.vscode-java-pack",
+      "vmware.vscode-boot-dev-pack",
+      "ms-vscode-remote.remote-containers",
+      "ms-vscode-remote.vscode-remote-extensionpack",
+      "ms-vscode-remote.remote-wsl",
+      "bradlc.vscode-tailwindcss",
+      "hediet.vscode-drawio",
+      "pkief.material-icon-theme",
+      "formulahendry.code-runner",
+      "gruntfuggly.todo-tree"
+    ]
+  }
+}

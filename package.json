@@ -1,0 +1,11 @@
+{
+  "name": "workout-management-app",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "cd WMA.Client && pnpm start",
+    "api": "cd WMA.API && mvn spring-boot:run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
