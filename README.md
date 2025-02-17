@@ -31,10 +31,9 @@ The Workout-Management-App is designed to inspire users to stay active by tracki
 
 **Note:** The snapshots showcase key features, but not all functionalities are displayed.
 
-![image](https://github.com/user-attachments/assets/971877e7-fe16-4a20-9615-3f4e1d7bd1f8)
-![image](https://github.com/user-attachments/assets/4ba82fb8-00b3-453d-8e53-b5574a7be020)
-![image](https://github.com/user-attachments/assets/58134c0c-c1fd-46aa-b94d-25d0d117df2a)
-
+![image](https://github.com/user-attachments/assets/c1734266-e724-4f74-8579-371cf4c311be)
+![image](https://github.com/user-attachments/assets/2e10a203-c545-41a2-97dc-b5e9e635a8f7)
+![image](https://github.com/user-attachments/assets/dc9b6701-73be-491c-9bea-48e84bdcb96d)
 
 ![image](https://github.com/user-attachments/assets/76f604b6-6acc-47d0-b4ba-dcf73be23333)
 ![image](https://github.com/user-attachments/assets/76fb4ca4-d95f-4d19-b195-fd37a528b813)
